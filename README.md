@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [chaptype](https://github.com/astrojose/chaptype), a touch typing site based on Swahili words and texts.
+- 🔭 I’m currently working on [chaptype](https://github.com/astrojose/chaptype), a simple touch typing site based on Swahili words and texts.
 <!--
 **astrojose/astrojose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
