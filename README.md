@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Bitcoin Blockhain Development
 - 🔭 I’m currently working on [chaptype](https://chaptyp.web.app), a simple touch typing site based on Swahili words and texts.
-- 📫 How to reach me: [jose@astrojose.xyz](mailto:jose@astrojose.xyz)
+- 📫 How to reach me: [jose@astrojose.xyz](mailto:jossey1918@gmail.com)
 - More about me, checkout my personal website [astrojose.xyz](https://astrojose.xyz)
 
 <!--
