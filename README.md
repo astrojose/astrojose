@@ -3,8 +3,8 @@
 - 📫 How to reach me: [jossey1918@gmail.com](mailto:jossey1918@gmail.com)
 - More about me, checkout my personal website [astrojose.xyz](https://astrojose.xyz)
 
-#### Recently Played
-![Recent spotify plays](https://spotify-recently-played-readme.vercel.app/api?user=31jpbpbyugsja7kplfjofgp6ojpi)
+### Recently Playlist
+![Recent spotify plays](https://spotify-recently-played-readme.vercel.app/api?user=31jpbpbyugsja7kplfjofgp6ojpi&unique={true|1|on|yes})
 <!--
 **astrojose/astrojose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
