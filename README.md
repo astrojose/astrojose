@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 ### Recently Playlist
-![Recent spotify plays](https://spotify-recently-played-readme.vercel.app/api?user=31jpbpbyugsja7kplfjofgp6ojpi&unique={true|1|on|yes})
 <!--
+
+![Recent spotify plays](https://spotify-recently-played-readme.vercel.app/api?user=31jpbpbyugsja7kplfjofgp6ojpi&unique={true|1|on|yes})
+
 **astrojose/astrojose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
