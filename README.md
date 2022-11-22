@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### Recently Playlist
 <!--
+### Recently Playlist
 
 ![Recent spotify plays](https://spotify-recently-played-readme.vercel.app/api?user=31jpbpbyugsja7kplfjofgp6ojpi&unique={true|1|on|yes})
 
